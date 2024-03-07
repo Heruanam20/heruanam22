@@ -1,6 +1,6 @@
 {
   "name": "heruanam22",
-  "version": "1.1.4",
+  "version": "0.1.0",
   "private": 
   "scripts": {
     "dev": "next dev",
